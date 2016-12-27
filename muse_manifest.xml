@@ -1,0 +1,87 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ex.com" resolutions="1x,2x" timestamp="1482800991253">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_______-a.css" crc="4152691844" ref="глаза:кисти:index:аксессуары:брови:лицо:губы"/>
+    <file name="_____1.css" crc="385426178" ref="глаза"/>
+    <file name="_____2.css" crc="3858760127" ref="кисти"/>
+    <file name="index.css" crc="321034352" ref="index"/>
+    <file name="__________.css" crc="3989571559" ref="аксессуары"/>
+    <file name="_____.css" crc="3861566739" ref="брови"/>
+    <file name="____1.css" crc="78136826" ref="лицо"/>
+    <file name="____.css" crc="3941485603" ref="губы"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="museutils.js" crc="4155826306" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="whatinput.js" crc="86476730" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="museconfig.js" crc="483509463" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="webpro.js" crc="4078243563" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="require.js" crc="228336483" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+  </folder>
+  <folder name="images">
+    <file name="u168-4.png" crc="4194468504" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u168-4_2x.png" crc="510851245" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2151-grad.png" crc="20373223" ref="index"/>
+    <file name="u2151-r-grad.png" crc="20373223" ref="index"/>
+    <file name="u2151-m-grad.png" crc="20373223" ref="index"/>
+    <file name="u2152-4.png" crc="3973730526" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2152-4_2x.png" crc="4215747877" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2145-4.png" crc="362376230" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2145-4_2x.png" crc="446255745" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2188-4.png" crc="260110630" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2188-4_2x.png" crc="119070857" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2212-4.png" crc="4283049795" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2212-4_2x.png" crc="4065603608" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2231-4.png" crc="418413866" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2231-4_2x.png" crc="3853256628" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2253-4.png" crc="15256055" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2253-4_2x.png" crc="458676460" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2272-4.png" crc="4158692880" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u2272-4_2x.png" crc="3772455690" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="75135_elenakrygina_vsem_draste_poka_vyi_o_131226.jpg" crc="3830493244" seo="true" ref="index"/>
+    <file name="шилков.jpg" crc="21335537" seo="true" ref="index"/>
+    <file name="романова.jpg" crc="4108041466" seo="true" ref="index"/>
+    <file name="u218-5.png" crc="3946344206" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="u218-5_2x.png" crc="3946638313" ref="index:аксессуары:кисти:лицо:глаза:губы:брови"/>
+    <file name="брови 1.jpg" crc="262581613" seo="true" ref="брови"/>
+    <file name="брови2.jpg" crc="4084928485" seo="true" ref="брови"/>
+    <file name="брови 3.jpg" crc="96227871" seo="true" ref="брови"/>
+    <file name="pret.jpg" crc="113368811" seo="true" ref="аксессуары"/>
+    <file name="rom.jpg" crc="151595012" seo="true" ref="аксессуары"/>
+    <file name="k1.jpg" crc="3843717905" seo="true" ref="кисти"/>
+    <file name="k1_2x.jpg" crc="254119347" seo="true" ref="кисти"/>
+    <file name="k2.jpg" crc="112269958" seo="true" ref="кисти"/>
+    <file name="k2_2x.jpg" crc="4270628125" seo="true" ref="кисти"/>
+    <file name="k3.jpg" crc="3765953268" seo="true" ref="кисти"/>
+    <file name="k3_2x.jpg" crc="4094834204" seo="true" ref="кисти"/>
+    <file name="f1.jpg" crc="4294169403" seo="true" ref="лицо"/>
+    <file name="f1_2x.jpg" crc="508907130" seo="true" ref="лицо"/>
+    <file name="f2.jpg" crc="287691406" seo="true" ref="лицо"/>
+    <file name="f3.jpg" crc="3770433287" seo="true" ref="лицо"/>
+    <file name="f3_2x.jpg" crc="3796452267" seo="true" ref="лицо"/>
+    <file name="gl1.jpg" crc="497966760" seo="true" ref="глаза"/>
+    <file name="gl1_2x.jpg" crc="4009787345" seo="true" ref="глаза"/>
+    <file name="gl2.jpg" crc="4265894283" seo="true" ref="глаза"/>
+    <file name="gl2_2x.jpg" crc="286530844" seo="true" ref="глаза"/>
+    <file name="gl3.jpg" crc="3836974977" seo="true" ref="глаза"/>
+    <file name="gl3_2x.jpg" crc="4010543152" seo="true" ref="глаза"/>
+    <file name="g1.jpg" crc="225580114" seo="true" ref="губы"/>
+    <file name="g1_2x.jpg" crc="133035569" seo="true" ref="губы"/>
+    <file name="g2.jpg" crc="329431992" seo="true" ref="губы"/>
+    <file name="g2_2x.jpg" crc="183561455" seo="true" ref="губы"/>
+    <file name="g3.jpg" crc="4201977381" seo="true" ref="губы"/>
+    <file name="g3_2x.jpg" crc="4293782552" seo="true" ref="губы"/>
+  </folder>
+  <file name="index.html" crc="3967719" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="аксессуары.html" crc="189941436" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="кисти.html" crc="411323699" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="лицо.html" crc="350357497" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="глаза.html" crc="178481" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="губы.html" crc="239416847" seo="true" mt="1482800936997" redirect="true"/>
+  <file name="брови.html" crc="363547463" seo="true" mt="1482800936997" redirect="true"/>
+</manifest>
